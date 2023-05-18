@@ -4,7 +4,7 @@ import { motion } from "framer-motion"
 import HText from "@/share/HText"
 import Benefit from "@/scenes/Benefits/Benefit"
 import ActionButton from "@/share/ActionButton"
-import BenefitsPageGraphic from "@/assets/benefitsPageGraphic.png"
+import BenefitsPageGraphic from "@/assets/BenefitsPageGraphic.png"
 
 const benefits: Array<BenefitsType> = [
     {
