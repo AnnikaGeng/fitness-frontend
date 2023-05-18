@@ -1,7 +1,7 @@
 import useMediaQuery from "@/hooks/useMediaQuery";
 import ActionButton from "@/share/ActionButton";
 import { SelectedPage } from "@/share/types";
-import HomePageText from "@/assets/homePageText.png";
+import HomePageText from "@/assets/HomePageText.png";
 import HomePageGraphic from "@/assets/HomePageGraphic.png";
 import SponsorRedBull from "@/assets/SponsorRedBull.png";
 import SponsorForbes from "@/assets/SponsorForbes.png";
